@@ -1,4 +1,0 @@
-pandas
-transformers
-torch
-rouge_score
